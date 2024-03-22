@@ -1,0 +1,294 @@
+Eshop Management System
+
+        Register / SIGN UP
+            - First Name*
+            - Last Name*
+            - Phone Number*
+            - Email*
+            - verification Code*
+            - Password*
+            - Date of Birth [Day, Month, Year]
+            - Gender [Male, Female]
+        
+
+        Login
+            - Phone Number*
+            - Email*
+            - Password*
+        
+        Reset
+          - Phone Number*
+          - Email*
+
+        Select Language
+            - English / EN
+            - Nepali / NE
+
+
+        Categories
+        - Women's Fashion 
+                        - Clothing 
+                        - Traditional Clothing
+                        - Women's Bag
+                        - Shoes
+                        - Accessories
+                        - Lingerie, Sleep & Lounge
+                        - Girl's Fashion
+
+
+        - Health & Beauty
+                        - Bath & Body
+                        - Beauty Tools
+                        - Fragrances
+                        - Hair Care
+                        - Makeup
+                        - Men's Care
+                        - Personal Care
+                        - Skin Care
+                        - Food Supplements
+                        - Medical Supplies
+
+
+        - Men's Fashion
+                        - Clothing
+                        - Men's Bag 
+                        - Shoes 
+                        - Accessories
+                        - Boy's Fashion
+                        - Men's Underwear
+
+
+        - Watches & Accessories
+                        - Men's Watches
+                        - Women's Watches
+                        - Kid's Watches
+                        - Sunglasses
+                        - Eyeglasses
+                        - Women Fashion Jewellery
+                        - Men Fashion Jewellery
+
+        - Electornic Devices
+                        - Smartphones
+                        - Feature Phones
+                        - Tablets
+                        - Laptops
+                        - Desktops
+                        - Monitors
+                        - Gaming Consoles
+                        - Cameras
+                        - Printers
+                        
+
+        - TV & Home Appliances
+                        - Televisions
+                        - TV Accessories
+                        - Audio & Video Devices
+                        - Large Appliances
+                        - Small Kitchen Appliances
+                        - Cooling & Heating
+                        - Vacuums & Floor Care
+                        - Iron & Garment Care
+
+
+
+            - Electronic Accessories
+                        - Mobile Accessories
+                        - Audio
+                        - Wearable
+                        - Console Accessories
+                        - Camera Accessories
+                        - Computer Accessories
+                        - Storage
+                        - Computer Components
+                        - Network Components
+                        - Printers
+
+
+            - Groceries & Pets
+                        - Groceries
+                        - Beverages
+                        - Breakfast, Choco & Snacks
+                        - Food Staples
+                        - Cooking Ingredients
+                        - Laundry & Household
+                        - Wines, Beers & Spirits
+                        - Pet Supplies
+
+
+            - Babies & Toys
+                        - Disposable Diapers
+                        - Baby Gear
+                        - Baby Personal Care
+                        - Clothing & Accessories
+                        - Diapering & Potty
+                        - Feeding
+                        - Nursery
+                        - Baby & Toddler Toys
+                        - Toys & Games
+                        - Remote Control & Vehicles
+                        - Sports & Outdoor Play
+                        - Pacifiers & Accessories
+
+
+            - Home & Lifestyle
+                        - Bath
+                        - Bedding
+                        - Decor
+                        - Furniture
+                        - Kitchen & Dining
+                        - Lighting
+                        - Laundry & Cleaning
+                        - Tools, DIY & Outdoor
+                        - Stationery & Craft
+                        - Media, Music & Books
+                        - Musical Instruments
+                        - Digital Goods
+
+
+            - Sports & Outdoor
+                        - Men Shoes & Clothing
+                        - Women Shoes & Clothing
+                        - Outdoor Recreation
+                        - Exercise & Fitness
+                        - Water Sports
+                        - Racket Sports
+                        - Team Sports
+                        - Water Bottles
+                        - Travel & Luggage
+                        - Sports Nutrition
+
+
+            - Motors, Tools & DIY
+                        - Automotive
+                        - Motorcycles
+                        - Auto Care
+                        - Auto Electronics
+                        - Moto Parts & Accessories
+                        - Motorcycle Riding Gear
+                        - Helmets
+                        - Gloves
+                        - Interior Accessories
+                        - Auto Oils & Fluids
+                        - Auto Tires & Wheels
+                        - Lubricants
+
+
+
+            - Nepali Product
+                        - Dhaka Topi
+                                - Items
+                        - Daura Surwal 
+                                - Items   
+
+
+            - Banner
+                    - Add Banner
+                    - Upload Banner
+                    - Change Banner
+
+
+            - Product
+                - name
+                - price 
+                - quantity
+                - category
+                        - sub category
+                - description
+                - image
+
+
+            
+            - Order & Account
+                    - Manage My Account
+                                - My Profile
+                                        - Full name
+                                        - Email Address
+                                        - Birthday
+                                        - Gender
+                                - EDIT PROFILE
+                                - CHANGE PASSWORD
+
+                    - Address Book
+                            - Add New Delevery Address
+                                                - Full Name
+                                                - Mobile Number
+                                                - Province
+                                                - City
+                                                - Area
+                                                - Address
+                                                - Landmark (Optional)
+                                                - Select a lebel for effective delevery:
+                                                                        - Home (Tick Mark)
+                                                                        - Office (Tick Mark)
+                                                - Default Address (Optional)
+                                                                - Default delevery address (Checkbox)
+                                                                - Default billing address (Checkbox)
+
+
+                        - My Payment Options
+
+
+                        - Vouchers
+                                - Active 
+                                - Uses 
+                                - Voucher Code 
+                                - Valid Form 
+                                - Valid Until 
+                                - Value
+
+
+            - My Orders
+                    - My Returns
+                            - CONTINUE SHOPPING (When Enpty-There are no returns yet.)
+
+                    - My Cancellations (When Empty-There are no cancellations yet.)
+
+            - Reviews
+                    - To Review
+                    - History
+
+
+            - My Wishlist & Followed Stores
+                                    - My Wishlist
+                                    - Past Purchases 
+                                    - Followed Stores
+                    - ADD ALL TO CART
+
+                                    - Just for You
+                                            - All Items
+
+
+                 
+             - Add to Cart
+                        Go To Cart
+                        Order Summary
+                                 - Subtotal 
+                                 - Shipping Fee
+                                 - Shipping Fee Discount 
+                                 - Enter VoucherCode (box) (Apply Button)
+                                 - Total (Show total bill)
+                
+                  PROCEED TO CHECKOUT (Button)
+
+                - Buy Now (Button)
+                        Discount and Payment (Show all payment detail from add to cart)
+                                        - Voucher
+                                        - Promo Code
+
+                        Order Summary
+                                - Items Total
+                                - Delevery Fee
+                                - Delevery Discount
+                                - Total Payment (All tax included)
+                        
+                Place Order (Button)
+
+
+
+
+
+
+
+
+
+            
