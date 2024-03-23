@@ -1253,16 +1253,3 @@ class MotorsToolsandDIY(models.Model):
 
 
                                                 
-                                                class Lubricants(models.Model):
-                                                    formats = (
-                                                    ('JPEG', 'JPEG'),
-                                                    ('PNG', 'PNG'),
-                                                    ('GIF', 'GIF'),
-                                                    ('SVG', 'SVG'),
-                                                    )
-        
-                                                file_format = models.CharField(max_length=4, choices=format)
-                                                image = models.ImageField(upload_to='images/')
-
-
-                                                
